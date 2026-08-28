@@ -145,13 +145,13 @@ export const Hero = () => {
         </div>
 
         <h1 className="special-font hero-heading text-blue-75 absolute right-5 bottom-5 z-40">
-          G<b>a</b>ming
+          S<b>i</b>ngh
         </h1>
 
         <div className="absolute top-0 left-0 z-40 size-full">
           <div className="mt-24 px-5 sm:px-10">
             <h1 className="special-font hero-heading text-blue-100">
-              Ritik singh
+              Ritik
             </h1>
 
             <p className="font-robert-regular mb-5 max-w-64 text-blue-100">
@@ -171,7 +171,7 @@ export const Hero = () => {
       </div>
 
       <h1 className="special-font hero-heading absolute right-5 bottom-5 text-black">
-        G<b>a</b>ming
+        S<b>i</b>ngh
       </h1>
     </section>
   );

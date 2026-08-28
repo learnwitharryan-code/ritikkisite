@@ -1,6 +1,6 @@
 import gsap from "gsap";
 import { useEffect, useRef, useState } from "react";
-
+import { FaInstagram } from "react-icons/fa";
 import { TiLocationArrow } from "react-icons/ti";
 import { useWindowScroll } from "react-use";
 
@@ -112,7 +112,16 @@ export const Navbar = () => {
                   })}
               </button>
 
-            
+              <a
+                href="https://www.instagram.com/noturritik?igsi=MWxkdG82bmF3cnEyYw=="
+                target="_blank"
+                rel="noreferrer noopener"
+                className="transition hover:opacity-75"
+                title="Instagram"
+              >
+                <FaInstagram className="size-5 text-white" />
+              </a>
+
             </div>
           </div>
         </nav>
