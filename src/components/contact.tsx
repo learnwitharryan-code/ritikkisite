@@ -52,7 +52,13 @@ export const Contact = () => {
             <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether
           </p>
 
-          <Button containerClass="mt-10 cursor-pointer">Contact Us</Button>
+          <a
+              href="https://www.instagram.com/noturritik?igsi=MWxkdG82bmF3cnEyYw=="
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <Button containerClass="mt-10 cursor-pointer">Contact Us</Button>
+            </a>
         </div>
       </div>
     </section>
