@@ -68,6 +68,7 @@ game-website/
     |-- main.tsx
     |-- vite-env.d.ts
   |- .gitignore
+  |- .npmrc
   |- .prettierrc
   |- bun.lockb
   |- eslint.config.js
